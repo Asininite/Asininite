@@ -2,7 +2,7 @@
   <img src="https://github.com/Asininite.png" width="120" alt="Asininite's avatar">
 </p>
 
-<h1 align="center">Hi there, I'm Asininite! 👋</h1>
+<h1 align="center">Hi there👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Asininite&label=Profile%20views&color=0e75b6&style=flat" alt="Asininite" />
@@ -10,13 +10,11 @@
 
 ---
 
-🎓 **Student** passionate about learning and building cool things with code.
+🎓 **Student** 
 
 💻 **Top language:** C++
 
-🌱 Always exploring new technologies and leveling up my skills.
-
-🚀 **Proud project:**  
+🚀 **Memorable Projects:**  
 <a href="https://github.com/Asininite/EcoSnap">
   <img src="https://img.shields.io/badge/EcoSnap-Project-green?style=flat-square" alt="EcoSnap badge">
 </a>
