@@ -15,7 +15,7 @@
 💻 **Top language:** C++
 
 🚀 **Memorable Projects:**  
-<a href="https://github.com/Asininite/CEAL-Hackaton">
+<a href="https://github.com/Asininite/EcoSnap">
   <img src="https://img.shields.io/badge/EcoSnap-Project-green?style=flat-square" alt="EcoSnap badge">
 </a>
 
